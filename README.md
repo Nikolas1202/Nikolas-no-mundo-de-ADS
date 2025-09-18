@@ -20,7 +20,7 @@ Aqui você acompanha minha evolução com **anotações, códigos de exercícios
 - ⚡ **Mini-projetos:** pequenas aplicações para praticar  
 - 🎯 **Metas semanais:** evoluir em HTML, CSS, JS e Python  
 
-![Learning GIF](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)  
+
 
 ---
 
@@ -47,5 +47,5 @@ Aqui você acompanha minha evolução com **anotações, códigos de exercícios
 ## ✨ Mensagem do dia
 *"Cada linha de código é um passo a mais na minha jornada como desenvolvedor. Persistência e prática sempre levam ao sucesso!"*  
 
-![Motivation GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
